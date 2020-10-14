@@ -6,9 +6,9 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\LSP\LSP.fsproj" />
-    <ProjectReference Include="..\..\paket-files\git\localfilesystem\cwtools\CWTools\CWTools.fsproj" />
+    <ProjectReference Include="..\..\paket-files\cwtools\CWTools\CWTools.fsproj" />
     <ProjectReference Include="..\LSP\LSP.fsproj" />
-    <ProjectReference Include="..\..\paket-files\git\localfilesystem\cwtools\CWTools\CWTools.fsproj" />
+    <ProjectReference Include="..\..\paket-files\cwtools\CWTools\CWTools.fsproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ProjectManager.fs" />
