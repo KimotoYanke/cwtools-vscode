@@ -1,3 +1,16 @@
+# 0.9.5
+* Fix longstanding issues with newer linux distros
+* Fix "tree-view" error
+* 20-30% performance improvement
+
+# 0.9.4
+* Improved modifier support for stellaris
+* Event targets in stellaris localisation
+
+# 0.9.3
+* Expose localisation links into config files (see stellaris)
+* Expose scope groups into config files (see stellaris)
+
 # 0.9.2
 * Fix CK3 vanilla cache
 
